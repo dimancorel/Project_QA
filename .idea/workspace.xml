@@ -4,17 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9623117-3317-4a1d-bb1f-130104a8f121" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/if 'Name' in s, s.find('Name').py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_3_2_13st.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_abs_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_input_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/unittest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/explicit_wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Хинты/assert.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project_QA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project_QA.iml" afterDir="false" />
+    <list default="true" id="f9623117-3317-4a1d-bb1f-130104a8f121" name="Changes" comment="commit2">
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/pytest_mark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/pytest_raises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture4_finalizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture7_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_xfail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/temp2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/HTTP-заголовков и структуры JSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/HTTP-заголовков и структуры JSON.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/HTTPError.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/HTTPError.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/fake 200 or 500.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/fake 200 or 500.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/monkeypatch+raise.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/monkeypatch+raise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/monkeypatch+timeout.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/monkeypatch+timeout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/monkeypatch+try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/monkeypatch+try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_abs_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_abs_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/test_create_post.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/test_create_post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/test_delete_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/test_delete_py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/test_get_posts_by_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/test_get_posts_by_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/test_patch.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/test_patch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/test_post_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/test_post_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/test_posts_by_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/test_posts_by_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/test_temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/test_temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/test_update_post.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/test_update_post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/test_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/test_users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/Подмена 500+class.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/Подмена 500+class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/негативные API-сценарии.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/негативные API-сценарии.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/парам JSON API-тестов.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/парам JSON API-тестов.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/фильтрация API через query-параметры.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/other/фильтрация API через query-параметры.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,41 +84,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in 3_2.py.executor": "Run",
+    "Python tests.Python tests in pytest_mark.py.executor": "Run",
+    "Python tests.Python tests in test_3_2.py.executor": "Run",
     "Python tests.Python tests in test_3_2_13st.py.executor": "Run",
     "Python tests.Python tests in test_abs_project.py.executor": "Run",
+    "Python tests.Python tests in test_fixture7.py.executor": "Run",
+    "Python tests.Python tests in test_fixture7_class.py.executor": "Run",
     "Python tests.Python tests in test_input_text.py.executor": "Run",
+    "Python tests.Python tests in test_main_page.py.executor": "Run",
+    "Python tests.Python tests in test_xfail.py.executor": "Run",
+    "Python.Unique_selectors.executor": "Run",
     "Python.explicit_wait.executor": "Run",
+    "Python.temp2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": ""
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Python tests in test_abs_project.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Project_QA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;-s -v&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/API_req_MP_pytest/stepik/test_abs_project.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.Python tests in test_abs_project.py" />
-      </list>
-    </recent_temporary>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\PycharmProjects\Project_QA\API_req_MP_pytest\other" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -109,6 +128,15 @@
       <option name="presentableId" value="Default" />
       <updated>1793444167308</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit2">
+      <option name="closed" value="true" />
+      <created>1793560899888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793560899888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,5 +152,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
   </component>
 </project>
