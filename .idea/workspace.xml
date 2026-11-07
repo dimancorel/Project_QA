@@ -4,30 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9623117-3317-4a1d-bb1f-130104a8f121" name="Changes" comment="commit3">
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/pages/main_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/test_main_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/__init__.py" afterDir="false" />
+    <list default="true" id="f9623117-3317-4a1d-bb1f-130104a8f121" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/pages/locators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/if 'Name' in s, s.find('Name').py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/if 'Name' in s, s.find('Name').py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/pytest_mark.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/pytest_mark.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/pytest_raises.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/pytest_raises.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_3_2_13st.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/test_3_2_13st.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_abs_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/test_abs_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture2.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/test_fixture2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture3.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/test_fixture3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture4_finalizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/test_fixture4_finalizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture7.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/test_fixture7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_fixture7_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/test_fixture7_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_input_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/test_input_text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_main_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/test_xfail.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/test_xfail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/stepik/unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/test_main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/test_main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_req_MP_pytest/standalone/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_req_MP_pytest/standalone/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +33,12 @@
     &quot;assignee&quot;: &quot;dimancorel&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/dimancorel/Project_QA.git&quot;,
-    &quot;accountId&quot;: &quot;e327d767-ed40-4e35-b029-8150d425b70f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dimancorel/Project_QA.git",
+    "accountId": "116e1c35-d8f7-4770-a61f-ad8294e70e37"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -71,64 +53,31 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests in 3_2.py.executor": "Run",
-    "Python tests.Python tests in pytest_mark.py.executor": "Run",
-    "Python tests.Python tests in test_3_2.py.executor": "Run",
     "Python tests.Python tests in test_3_2_13st.py.executor": "Run",
     "Python tests.Python tests in test_abs_project.py.executor": "Run",
-    "Python tests.Python tests in test_fixture7.py.executor": "Run",
-    "Python tests.Python tests in test_fixture7_class.py.executor": "Run",
     "Python tests.Python tests in test_input_text.py.executor": "Run",
     "Python tests.Python tests in test_main_page.py (2).executor": "Run",
     "Python tests.Python tests in test_main_page.py.executor": "Run",
-    "Python tests.Python tests in test_xfail.py.executor": "Run",
-    "Python.Unique_selectors.executor": "Run",
-    "Python.conftest.executor": "Run",
     "Python.explicit_wait.executor": "Run",
-    "Python.temp2.executor": "Run",
+    "Python.main_page.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/MSI/PycharmProjects/Project_QA/API_req_MP_pytest/standalone/Page_obj",
     "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
+    "node.js.selected.package.jshint": ""
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MSI\PycharmProjects\Project_QA\API_req_MP_pytest\standalone\Page_obj" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MSI\PycharmProjects\Project_QA\API_req_MP_pytest\standalone" />
-      <recent name="C:\Users\MSI\PycharmProjects\Project_QA\API_req_MP_pytest\standalone\Page_object" />
-      <recent name="C:\Users\MSI\PycharmProjects\Project_QA\API_req_MP_pytest\standalone\Page_obj" />
-      <recent name="C:\Users\MSI\PycharmProjects\Project_QA\API_req_MP_pytest\standalone\Page_Object\pages" />
-      <recent name="C:\Users\MSI\PycharmProjects\Project_QA\API_req_MP_pytest\standalone\pages" />
+      <recent name="C:\Users\nuc\PycharmProjects\Project_QA" />
+      <recent name="C:\Users\nuc\PycharmProjects\Project_QA\API_req_MP_pytest" />
+      <recent name="C:\Users\nuc\PycharmProjects\Project_QA\API_req_MP_pytest\standalone\Page_object" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_main_page.py (2)">
-    <configuration name="Python tests in test_main_page.py (2)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Project_QA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;--language\u003den&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/test_main_page.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Python tests in test_main_page.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Project_QA" />
       <option name="ENV_FILES" value="" />
@@ -141,7 +90,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;--language\u003den&quot;" />
+      <option name="_new_additionalArguments" value="&quot;-v --tb\u003dline --language\u003den&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/API_req_MP_pytest/standalone/Page_object/test_main_page.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
@@ -149,7 +98,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests in test_main_page.py (2)" />
-        <item itemvalue="Python tests.Python tests in test_main_page.py" />
       </list>
     </recent_temporary>
   </component>
@@ -168,23 +116,6 @@
       <option name="presentableId" value="Default" />
       <updated>1793444167308</updated>
     </task>
-    <task id="LOCAL-00001" summary="commit2">
-      <option name="closed" value="true" />
-      <created>1793560899888</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1793560899888</updated>
-    </task>
-    <task id="LOCAL-00002" summary="commit3">
-      <option name="closed" value="true" />
-      <created>1793796590956</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1793796590956</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,10 +131,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit2" />
-    <MESSAGE value="commit3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
   </component>
 </project>

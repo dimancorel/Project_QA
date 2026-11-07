@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 
-@pytest.fixture(scope="function")
+@pytest.fixture(scope="function")# если session то browser каждый раз
 def browser():
     print("\nstart browser for test..")
     options = Options()
